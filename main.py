@@ -40,8 +40,6 @@ def make_playlist():
 
 # add to playlist list if exists
 def main():
-    # r = redditbot.RedditBot()
-    # r.save_top_pics('animemes')
     make_playlist()
 
 
